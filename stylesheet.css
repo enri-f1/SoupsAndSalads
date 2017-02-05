@@ -1,0 +1,206 @@
+/* Stylesheet for 2 Soups & Salads */
+html body {
+	margin: 0;
+	padding: 0;
+}
+
+
+.header {
+	background-image: url(https://static.pexels.com/photos/5793/food-healthy-hand-cooking.jpg); 
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+	width: 100%;
+	
+}
+
+h1, h2, h3 {
+	font-family: 'Great Vibes';
+}
+
+h3 {
+	font-size: 35px;
+	border-bottom: 1.2px solid #aaa;
+}
+
+h1 {
+	font-size: 65px;
+	text-align: center;
+	border-radius: 8px;
+	background-color: white;
+	text-shadow: 7px 7px 7px #aaa;
+	opacity: 0.8;
+	padding: 20px 0px 20px 0px;
+	margin-top: 110px;
+	color: black;
+}
+
+.header ul {
+	text-align: center;
+}
+
+.header li { 
+	display: inline;
+	list-style: none;
+	padding: 20px;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+img  {
+	height: 450px;
+	width: 100%, auto;
+	
+}
+
+.header a {
+	text-decoration: none;
+	color: #000;
+}
+
+.main h2 {
+	padding-top: 30px;
+	font-size: 40px;
+}
+
+.main p {
+	font-size: 15px;
+}
+
+.main a {
+	text-decoration: none;
+	color: black;
+}
+
+.col-md-8 {
+	text-align: center;
+	
+}
+
+.col-md-8 h4 {
+	font-size: 2.5em;
+	
+}
+
+.col-md-8 p {
+	font-size: 17px;
+}
+
+.col-md-4 {
+	padding-left: 100px;
+}
+
+.col-md-6 h4 {
+	font-size: 2.5em; 
+	padding-left: 30px;
+
+}
+
+.col-md-6 p {
+	font-size: 17px;
+}
+
+.row {
+	padding: 10px;
+}
+
+img {
+	display: center;
+
+}
+
+span {
+	border-bottom: 1px solid black;
+	opacity:  1;
+}
+
+.bck {
+	padding-top: 30px;
+	background-image: url(https://static.pexels.com/photos/5791/food-healthy-soup-leek.jpg);
+	background-size: cover;
+	background-position: left;
+	height: 700px;
+	width: 100%;
+}
+
+.home {
+	padding-top: 50px;
+	color: black;
+}
+
+.bck h2 {
+	font-size: 6em;
+	padding-top: 110px;
+	width: 33%;
+	opacity: 1;
+	text-align: right;
+
+
+}
+
+.soon {
+	text-align: -webkit-right;	
+	
+}
+
+.soon em {
+	border-radius: 5px;
+	background-color: white;
+	opacity: 0.6;
+	padding: 10px;
+	height: 40px;
+	width: 350px;
+	size: 1.2em;
+	color: black;
+}
+
+
+.home p {
+	font-size: 18px;
+	text-align: right;
+	
+}
+
+ol {
+	padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
